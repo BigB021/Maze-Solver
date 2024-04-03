@@ -56,7 +56,7 @@ The project uses matplotlib to visualize the maze, the exploration of the pathfi
 
 Contributions to the Maze Solver Project are welcome! Whether it's reporting a bug, discussing improvements, or adding new features, your input is valued. Feel free to fork the repository and create a pull request or open an issue.
 
-License
+## License
 
 Distributed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). 
 
